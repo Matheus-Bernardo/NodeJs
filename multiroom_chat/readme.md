@@ -6,4 +6,4 @@ para rodar o projeto primeiro instale as dependencias com
 
 Em seguida
 
-* nodemon app.js"
+* nodemon app.js
